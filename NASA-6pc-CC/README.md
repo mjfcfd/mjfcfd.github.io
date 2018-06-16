@@ -7,6 +7,11 @@
 ## Matlab file
  - aerofoil_coords.m
 
+## Aerofoil coordinates
+The following files were provided by S.Anders via private communication
+
+ - 2.98_Coanda_0010_slot.\*
+
 ## Geometry
  | | |
  |-|-|
