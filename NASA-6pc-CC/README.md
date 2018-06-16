@@ -1,4 +1,11 @@
-# NASA-6pc-CC Ansys ICEMCFD files
+# NASA-6pc-CC
+
+## Ansys ICEMCFD files
+ - 2.98_0012.tin
+ - 2.98_0012.blk
+
+## Matlab file
+ - aerofoil_coords.m
 
 ## Geometry
  | | |
