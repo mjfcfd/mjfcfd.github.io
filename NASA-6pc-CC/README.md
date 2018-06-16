@@ -1,16 +1,18 @@
 # NASA-6pc-CC
 
 ## Ansys ICEMCFD files
- - 2.98_0012.tin
- - 2.98_0012.blk
+ - [2.98_0012.tin](./2.98_0012.tin)
+ - [2.98_0012.blk](./2.98_0012.blk)
 
 ## Matlab file
- - aerofoil_coords.m
+ - [aerofoil_coords.m](./aerofoil_coords.m)
 
 ## Aerofoil coordinates
 The following files were provided by S.Anders via private communication
 
- - 2.98_Coanda_0010_slot.\*
+ - [2.98_Coanda_0010_slot.dxf](./2.98_Coanda_0010_slot.dxf)
+ - [2.98_Coanda_0010_slot.txt](./2.98_Coanda_0010_slot.txt)
+ - [2.98_Coanda_0010_slot_UNIX.dxf](./2.98_Coanda_0010_slot_UNIX.dxf)
 
 ## Geometry
  | | |
